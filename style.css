@@ -19,3 +19,13 @@
         
     display: flex;
 }
+
+body{
+
+    margin:0px;
+    padding: 0%;
+    background-color: black;
+    color: gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
