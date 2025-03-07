@@ -62,6 +62,7 @@ width: 500px;
   }
 
   .square {
+    border-radius: 18px;
     width: 150px;
     height: 150px;
     border: 2px solid rgb(0, 0, 0);
