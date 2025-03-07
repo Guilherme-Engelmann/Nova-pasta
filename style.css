@@ -78,3 +78,9 @@ width: 500px;
     height: 100%;
     object-fit: cover;
   }
+  #produtos{
+    background-color:grey;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
