@@ -45,3 +45,9 @@ footer {
 #logo{
 width: 50px;
 }
+#sobre{
+    background-color:green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
