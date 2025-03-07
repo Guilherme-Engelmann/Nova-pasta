@@ -36,17 +36,17 @@ header {
     text-align: center;
 }
 footer {
-    background-color: rgb(17, 46, 17);
+    background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
     padding: 10px;
     margin-top: 20px;
 }
 #logo{
-width: 90px;
+width: 400px;
 }
 #sobre{
-    background-color:green;
+    background-color:grey;
     color: white;
     padding: 20px;
     text-align: center;
