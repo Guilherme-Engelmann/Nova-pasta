@@ -58,13 +58,14 @@ width: 400px;
 
 .container {
     display: flex;
-    gap: 10px; /* Espaço entre os quadrados */
+    gap: 10px;
   }
 
   .square {
     width: 150px;
     height: 150px;
-    border: 2px solid black; /* Deixa o quadrado aparente */
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
