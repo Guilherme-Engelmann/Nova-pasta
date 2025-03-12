@@ -27,6 +27,8 @@ body{
     background-color: white;
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
 
 }
 header {
@@ -48,17 +50,18 @@ width: 500px;
 #sobre{
     background-color:grey;
     color: white;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 .imagens{
-    width: 300px;
+    width: 10px;
    
 }
 
 .container {
     display: flex;
-    gap: 10px;
+    gap: 400px;
+    align-items: center;
   }
 
   .square {
